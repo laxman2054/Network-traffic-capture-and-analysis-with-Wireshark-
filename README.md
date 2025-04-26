@@ -18,5 +18,13 @@ Wireshark Packet Capture and Filter Usage
 ## OUTPUT:
 Captured Packets with Protocol Analysis and Detailed Packet Info
 
+
+
+
+
+
+
+
+
 ## RESULT:
 Network traffic was successfully captured and analyzed using Wireshark.
