@@ -18,6 +18,14 @@ Wireshark Packet Capture and Filter Usage
 ## OUTPUT:
 Captured Packets with Protocol Analysis and Detailed Packet Info
 
+![Screenshot 2025-04-26 170033](https://github.com/user-attachments/assets/45dfc37f-c50c-4e44-afbc-25b5558a60d3)
+
+* Start Capturing Packets:
+1. Click the blue shark fin icon or double-click the interface.
+2. Now the Wireshark will start capturing all the real-time traffic.
+
+
+
 
 
 
