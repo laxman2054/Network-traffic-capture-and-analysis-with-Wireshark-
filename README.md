@@ -25,6 +25,20 @@ Captured Packets with Protocol Analysis and Detailed Packet Info
 2. Now the Wireshark will start capturing all the real-time traffic.
 
 
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/5c32bee0-8e27-4215-8c8f-80ad65f1a42e" />
+
+
+
+* Apply Filters to Focus on Specific Traffic
+• Use filters like http, ip.addr == 192.168.1.1, or tcp.port == 80 in the top filter bar to narrow down results.
+
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/4e9f201b-790b-423d-a053-7380f66e83a9" />
+
+
+* Analyze Packet Details
+• Click on a packet to view its detailed breakdown including frame, Ethernet,IP, TCP/UDP layers, and data payload.
+
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/1daab503-93fd-436d-ad94-d8ef7efe4c06" />
 
 
 
