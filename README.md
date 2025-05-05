@@ -3,7 +3,7 @@
 To capture and analyze network traffic using Wireshark in order to observe protocols, packets, and potential anomalies.
 
 ## DESIGN STEPS:
-### Step 1:
+### Step 1: 
 Install Wireshark using the command:
 
 ### Step 2:
